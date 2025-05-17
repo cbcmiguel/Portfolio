@@ -3,7 +3,7 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
-  --font-poppins: 'Poppins', ui-sans-serif, system-ui, sans-serif;
+  --font-poppins: 'Poppins';
   --font-abril-fatface: 'Abril Fatface', cursive;
   --default-font-family: var(--font-poppins);
 }
