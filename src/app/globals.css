@@ -48,5 +48,5 @@ header{
 /* Styles for Navbar Items */
 .navbar-item{
   @apply text-gray-700 hover:text-black font-medium transition-all p-3;
-  font-family: var(-font-poppins);
+  font-family: var(--font-poppins);
 }
